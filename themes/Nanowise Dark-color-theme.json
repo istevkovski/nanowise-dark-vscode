@@ -237,8 +237,7 @@
 				"support.type.property-name constant.character.escape",
 			],
 			"settings": {
-				"foreground": "#b15dff",
-				"fontStyle": "bold"
+				"foreground": "#5dd9ff",
 			},
 		},
 		{
@@ -310,7 +309,7 @@
 			"name": "this Variables",
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#04d19e",
+				"foreground": "#e9ec10",
 			},
 		},
 		{
@@ -329,7 +328,7 @@
 				"entity.name.function.decorator",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -353,7 +352,7 @@
 				"keyword.other.preprocessor",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -429,7 +428,7 @@
 				"string.regexp punctuation",
 			],
 			"settings": {
-				"foreground": "#00A39F",
+				"foreground": "#ffffff",
 			},
 		},
 		{
@@ -601,7 +600,7 @@
 			"name": "CSS: Variables",
 			"scope": "source.css variable",
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -737,7 +736,7 @@
 				"source.stylus variable",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -880,7 +879,7 @@
 				"support.function.js",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -917,7 +916,7 @@
 			"name": "YAML: Keys",
 			"scope": "entity.name.tag.yaml",
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -956,7 +955,7 @@
 				"source.php support.function.var",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1021,7 +1020,7 @@
 				"source.env variable",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1106,7 +1105,7 @@
 				"source.reason support.property-value",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1118,7 +1117,7 @@
 				"source.rust support.function.core.rust",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1179,7 +1178,7 @@
 			"name": "Diff: Headers",
 			"scope": "meta.diff.header",
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1218,7 +1217,7 @@
 			"name": "Make: Variables",
 			"scope": "source.makefile variable",
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1253,7 +1252,7 @@
 				"source.sql keyword",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1274,7 +1273,7 @@
 			"name": "Elixir: Symbols",
 			"scope": "constant.other.symbol.elixir",
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1316,7 +1315,7 @@
 				"variable.other.field.erlang",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1430,7 +1429,7 @@
 				"source.ocaml support.constant.property-value",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1460,7 +1459,7 @@
 				"variable.parameter.scala",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1513,7 +1512,7 @@
 				"source.svelte meta.block.ts entity.name.label",
 			],
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
@@ -1669,7 +1668,7 @@
 			"name": "Groovy: Keys",
 			"scope": "constant.other.key.groovy",
 			"settings": {
-				"foreground": "#b15dff",
+				"foreground": "#5dd9ff",
 				"fontStyle": "bold"
 			},
 		},
