@@ -3,7 +3,7 @@
 	<img width=200px height=200px src="icons/nanowise-round.png" alt="Project logo"></a>
 </p>
 
-<h2 align="center">Nanowise</h2>
+<h2 align="center">Nanowise Galaxy</h2>
 
 <div align="center">
 	<a href="https://marketplace.visualstudio.com/items?itemName=nanowise.nanowise">
@@ -38,10 +38,10 @@
 </div>
 
 <div align="center">
-	<img src="images/nanowise-less.png">
 	<img src="images/nanowise-java.png">
-	<img src="images/nanowise-vscode.png">
-	<img src="images/nanowise-welcome-folder.png">
+	<img src="images/nanowise-graphql.png">
+	<img src="images/nanowise-empty.png">
+	<img src="images/nanowise-welcome.png">
 </div>
 
 ## 🎈 Usage <a name="usage"></a>
