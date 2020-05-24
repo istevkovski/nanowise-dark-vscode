@@ -2,11 +2,12 @@
     "name": "nanowise-dark",
     "displayName": "Nanowise Dark",
     "description": "Take a trip through the galaxy and experience the clean silence!",
-    "version": "1.0.0",
+    "publisher": "nanowise",
+    "version": "1.0.5",
     "engines": {
         "vscode": "^1.45.0"
     },
-    "icon": "icons/nanowise-icon.png",
+    "icon": "icons/nanowise-vsc-icon.png",
     "author": {
         "name": "Ivan Stevkovski",
         "email": "istevkovski@outlook.com",

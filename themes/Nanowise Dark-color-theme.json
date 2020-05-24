@@ -28,7 +28,10 @@
 		"editorWhitespace.foreground": "#ADB1C255",
 
 		// Title bar
-		"titleBar.activeBackground": "#F3F4F5",
+		"titleBar.activeBackground"   : "#242b40",
+        "titleBar.activeForeground"   : "#e2e6e9",
+        "titleBar.inactiveBackground" : "#242b40",
+        "titleBar.inactiveForeground" : "#e2e6e94d",
 		
 		// Tabs
 		"tab.activeBorderTop": "#EBB100",
@@ -75,9 +78,9 @@
 		"editor.focusedStackFrameHighlightBackground": "#9dff0022",
 		
 		// Debugger
-		"debugExceptionWidget.background": "#FFAEAC33",
+		"debugExceptionWidget.background": "#303956",
 		"debugExceptionWidget.border": "#FF5C57",
-		"debugToolBar.border": "#E9EAEB",
+		"debugToolBar.border": "#E9EAEB00",
 		
 		// Sidebar
 		"sideBar.background": "#242B40",
