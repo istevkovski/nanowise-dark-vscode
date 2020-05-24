@@ -175,12 +175,12 @@
 		"editorOverviewRuler.warningForeground": "#ebb100",
 		
 		// Peek view
-		"peekView.border": "#00ccff",
-		"peekViewTitle.background": "#00ccff11",
+		"peekView.border": "#9dff00",
+		"peekViewTitle.background": "#9dff0011",
 		"peekViewEditor.background": "#14B1FF08",
 		"peekViewEditor.matchHighlightBackground": "#F5B90088",
 		"peekViewEditor.matchHighlightBorder": "#F5B90000",
-		"peekViewResult.selectionBackground": "#00ccff",
+		"peekViewResult.selectionBackground": "#9dff00",
 		"peekViewResult.selectionForeground": "#FFFFFF",
 		"peekViewResult.matchHighlightBackground": "#F5B90088",
 
@@ -310,6 +310,7 @@
 			"scope": "variable.language.this",
 			"settings": {
 				"foreground": "#e9ec10",
+				"fontStyle": "bold"
 			},
 		},
 		{
@@ -319,7 +320,8 @@
 				"support.function",
 			],
 			"settings": {
-				"foreground": "#00ccff"
+				"foreground": "#9dff00",
+				"fontStyle": "bold"
 			},
 		},
 		{
@@ -449,7 +451,7 @@
 				"string.regexp keyword.other",
 			],
 			"settings": {
-				"foreground": "#00A39FBB",
+				"foreground": "#fc2666",
 			},
 		},
 		{
@@ -608,7 +610,7 @@
 			"name": "CSS: Punctuation",
 			"scope": "punctuation.definition.entity.css",
 			"settings": {
-				"foreground": "#FF82CBBB",
+				"foreground": "#fc2666",
 			},
 		},
 		{
@@ -665,7 +667,8 @@
 				"source.css support.function",
 			],
 			"settings": {
-				"foreground": "#00ccff",
+				"foreground": "#9dff00",
+				"fontStyle": "bold"
 			},
 		},
 		{
@@ -788,7 +791,7 @@
 			"name": "Markup: Link Title",
 			"scope": "string.other.link.title.markdown",
 			"settings": {
-				"foreground": "#00ccff",
+				"foreground": "#9dff00",
 			},
 		},
 		{
@@ -1208,7 +1211,7 @@
 				"meta.separator",
 			],
 			"settings": {
-				"foreground": "#00ccff",
+				"foreground": "#9dff00",
 			},
 		},
 		
@@ -1264,7 +1267,7 @@
 				"keyword.other.special-method.dockerfile",
 			],
 			"settings": {
-				"foreground": "#00ccff",
+				"foreground": "#9dff00",
 			},
 		},
 		
@@ -1536,7 +1539,7 @@
 				"meta.function-call.livescript",
 			],
 			"settings": {
-				"foreground": "#00ccff",
+				"foreground": "#9dff00",
 			},
 		},
 		
