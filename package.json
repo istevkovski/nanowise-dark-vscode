@@ -1,0 +1,31 @@
+{
+    "name": "nanowise-dark",
+    "displayName": "Nanowise Dark",
+    "description": "Take a trip through the galaxy and experience the clean silence!",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "icon": "icons/nanowise-icon.png",
+    "author": {
+        "name": "Ivan Stevkovski",
+        "email": "istevkovski@outlook.com",
+        "url": "https://www.linkedin.com/in/istevkovski/"
+    },
+    "repository": {
+        "url": "https://github.com/istevkovski/nanowise-dark-vscode.git",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nanowise Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nanowise Dark-color-theme.json"
+            }
+        ]
+    }
+}
