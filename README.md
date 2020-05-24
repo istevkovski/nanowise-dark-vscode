@@ -6,20 +6,20 @@
 <h2 align="center">Nanowise Galaxy</h2>
 
 <div align="center">
-	<a href="https://marketplace.visualstudio.com/items?itemName=nanowise.nanowise">
-		<img src="https://vsmarketplacebadge.apphb.com/version/nanowise.nanowise.svg?style=for-the-badge&colorA=FF5789&colorB=FF3D77" /></a>
-	<a href="https://marketplace.visualstudio.com/items?itemName=nanowise.nanowise">
-		<img src="https://vsmarketplacebadge.apphb.com/rating-star/nanowise.nanowise.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08" /></a>
-	<a href="https://marketplace.visualstudio.com/items?itemName=nanowise.nanowise"><img
-			src="https://vsmarketplacebadge.apphb.com/downloads-short/nanowise.nanowise.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS" /></a>
-	<br> <a href="vscode:extension/nanowise.nanowise"><img
+	<a href="https://marketplace.visualstudio.com/items?itemName=nanowise.nanowise-dark">
+		<img src="https://vsmarketplacebadge.apphb.com/version/nanowise.nanowise-dark.svg?style=for-the-badge&colorA=FF5789&colorB=FF3D77" /></a>
+	<a href="https://marketplace.visualstudio.com/items?itemName=nanowise.nanowise-dark">
+		<img src="https://vsmarketplacebadge.apphb.com/rating-star/nanowise.nanowise-dark.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08" /></a>
+	<a href="https://marketplace.visualstudio.com/items?itemName=nanowise.nanowise-dark"><img
+			src="https://vsmarketplacebadge.apphb.com/downloads-short/nanowise.nanowise-dark.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS" /></a>
+	<br> <a href="vscode:extension/nanowise.nanowise-dark"><img
 			src="https://img.shields.io/badge/Made%20with-JSON%20%7B%20...%20%7D-brightgreen.svg?colorA=0CE8D6&colorB=04D1BC&style=for-the-badge" /></a>
-	<a href="https://github.com/istevkovski/nanowise-vscode"><img
+	<a href="https://github.com/istevkovski/nanowise-dark-vscode"><img
 			src="https://img.shields.io/badge/Built%20with-%E2%99%A5-brightgreen.svg?colorA=24B6FF&colorB=09A1ED&style=for-the-badge" /></a>
 </div>
 
 <h4 align="center">
-	This is a punchy light theme for your editor. Initially I made this to learn more about creating my own VSCode theme.
+	This is a slightly punchy dark theme for your editor. Take a trip through the galaxy and experience the clean silence!
     <br>
 </h4>
 
