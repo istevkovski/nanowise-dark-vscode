@@ -1,9 +1,11 @@
 {
 	// Dark - 2A324B
 	// Dark+ - 303956
+	// Dark+ Light - 47506B
 	// Dark Contrast - 242b40
 	// Pink - ff2f66
 	// Orange - ebb100
+	// Orange Light - ffd000
 	// Green - 04d1bc
 	// Blue - 00ccff
 	// Lime - 9dff00
@@ -18,14 +20,16 @@
 		"selection.background": "#EBB10044",
 		"editorGroup.emptyBackground": "#2A324F",
 		"editor.selectionBackground": "#EBB10022",
-		"menu.selectionBackground": "#E9EAEB",
-		"menu.selectionForeground": "#686968",
-		"menu.background": "#FAFBFC",
-		"menubar.selectionBackground": "#E9EAEB",
-		"menubar.selectionForeground": "#686968",
 		"editor.background": "#2A324B",
 		"editor.foreground": "#F3F4F5",
 		"editorWhitespace.foreground": "#ADB1C255",
+
+		// Menu selection
+		"menu.background": "#242b40",
+		"menu.selectionBackground": "#303956",
+		"menu.selectionForeground": "#ffd000",
+		"menubar.selectionBackground": "#303956",
+		"menubar.selectionForeground": "#ffd000",
 
 		// Title bar
 		"titleBar.activeBackground"   : "#242b40",
@@ -136,8 +140,8 @@
 		"button.foreground": "#242B40",
 		
 		// Extensions
-		"extensionButton.prominentBackground": "#9dff00",
-		"extensionButton.prominentHoverBackground": "#238744",
+		"extensionButton.prominentBackground": "#EBB100",
+		"extensionButton.prominentHoverBackground": "#EBB10070",
 		
 		// Line numbers
 		"editorLineNumber.activeForeground": "#35CF68",
@@ -155,7 +159,7 @@
 		"activityBar.foreground": "#EBB100",
 		"activityBarBadge.background": "#EBB100",
 		"activityBarBadge.foreground": "#303956",
-		"activityBar.inactiveForeground": "#68696888",
+		"activityBar.inactiveForeground": "#ffffff18",
 		
 		// Git: Sidebar
 		"gitDecoration.untrackedResourceForeground": "#9dff00",
