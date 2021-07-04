@@ -1,0 +1,27 @@
+	// Dark - 2A324B
+	// Dark+ - 303956
+	// Dark+ Light - 47506B
+	// Dark Contrast - 242B40
+
+	// Text - FFFFFF
+	// Text Dark Contrast - ADB1C2
+
+	// Gumball - FF577F
+	// NanoYellow - FFCC00
+	// NanoLime - B3FF63
+	// Cyan - 5DD9FF
+
+
+
+-- Colors Old
+	// Dark - 2A324B
+	// Dark+ - 303956
+	// Dark+ Light - 47506B
+	// Dark Contrast - 242b40
+	// Pink - ff2f66
+	// Orange - FFCC00
+	// Orange Light - ffd000
+	// Green - 04d1bc
+	// Blue - 00ccff
+	// Lime - 9dff00
+	// Yellow - e9ec10
