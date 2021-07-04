@@ -150,15 +150,15 @@
 		
 		// Status bar
 		"statusBarItem.remoteBackground": "#FFCC00",
-		"statusBar.background": "#FFCC00bb",
-		"statusBar.foreground": "#303956",
+		"statusBar.background": "#242B40",
+		"statusBar.foreground": "#ffffff",
 		"statusBar.border": "#00000000",
 
 		"statusBar.noFolderBackground": "#47506B",
 		"statusBar.noFolderForeground": "#2A324B",
 		"statusBar.noFolderBorder": "#00000000",
 		
-		"statusBar.debuggingBackground": "#B3FF63bb",
+		"statusBar.debuggingBackground": "#FFCC00bb",
 		"statusBar.debuggingForeground": "#303956",
 		"statusBar.debuggingBorder": "#00A39F00",
 		
