@@ -150,14 +150,16 @@
 		
 		// Status bar
 		"statusBarItem.remoteBackground": "#FFCC00",
-		"statusBar.noFolderBorder": "#00000000",
-		"statusBar.noFolderBackground": "#47506B",
-		"statusBar.noFolderForeground": "#2A324B",
-		"statusBar.background": "#FFCC00",
+		"statusBar.background": "#FFCC00bb",
 		"statusBar.foreground": "#303956",
 		"statusBar.border": "#00000000",
+
+		"statusBar.noFolderBackground": "#47506B",
+		"statusBar.noFolderForeground": "#2A324B",
+		"statusBar.noFolderBorder": "#00000000",
+		
+		"statusBar.debuggingBackground": "#B3FF63bb",
 		"statusBar.debuggingForeground": "#303956",
-		"statusBar.debuggingBackground": "#B3FF63",
 		"statusBar.debuggingBorder": "#00A39F00",
 		
 		// Activity bar
@@ -168,8 +170,8 @@
 		"activityBar.inactiveForeground": "#ffffff30",
 		
 		// Git: Sidebar
-		"gitDecoration.untrackedResourceForeground": "#B3FF63",
-		"gitDecoration.modifiedResourceForeground": "#00A39F",
+		"gitDecoration.untrackedResourceForeground": "#B3FF63aa",
+		"gitDecoration.modifiedResourceForeground": "#5dd9ffaa",
 		
 		// Git: Gutter
 		"editorGutter.modifiedBackground": "#00A39FAA",
@@ -253,6 +255,7 @@
 			],
 			"settings": {
 				"foreground": "#B3FF63",
+				"fontStyle": ""
 			},
 		},
 		{
