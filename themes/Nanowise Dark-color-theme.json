@@ -273,6 +273,18 @@
 			},
 		},
 		{
+			"name": "Keyword Symbolic Operators",
+			"scope": [
+				"keyword.operator",
+				"keyword.operator.logical",
+				"keyword.operator.arithmetic",
+				"keyword.operator.assignment",
+			],
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
 			"name": "Types",
 			"scope": [
 				"support.type",
@@ -311,7 +323,7 @@
 				"variable.language",
 			],
 			"settings": {
-				"foreground": "#B3FF63",
+				"foreground": "#5DD9FF",
 			},
 		},
 		{
