@@ -38,9 +38,9 @@
 </div>
 
 <div align="center">
+	<img src="images/nanowise-reactjs.png">
 	<img src="images/nanowise-java.png">
 	<img src="images/nanowise-graphql.png">
-	<img src="images/nanowise-empty.png">
 	<img src="images/nanowise-welcome.png">
 </div>
 
